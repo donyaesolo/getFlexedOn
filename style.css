@@ -1,0 +1,70 @@
+body {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	margin: 0;
+}
+
+.red {
+	background-image: linear-gradient(135deg, #F96868 30%, #EDB784 50%);
+}
+
+.orange {
+	background-image: linear-gradient(45deg, #EDB784 30%, #F9F28B 50% );
+}
+.yellow {
+	background-image: linear-gradient(-45deg, #F9F28B 30%, #B0F98B 50% );
+}
+.green {
+background-image: linear-gradient(-135deg, #B0F98B 30%, #8AE1F7 50% );
+}
+.blue {
+	background-image: linear-gradient(135deg, #8AE1F7 30%, #9A8AF7 50% );
+}
+
+.purple {
+	background-image: linear-gradient(45deg, #9A8AF7 30%, #F49FEA 50% );
+}
+.pink {
+	background-image: linear-gradient(-45deg, #F49FEA 30%, #F96868 50% );
+}
+.redb {
+	background-image: linear-gradient(-135deg, #F96868 30%, #EDB784 50%);
+}
+.orangeb {
+	background-image: linear-gradient(135deg, #EDB784 30%, #F9F28B 50% );
+}
+.yellowb {
+	background-image: linear-gradient(45deg, #F9F28B 30%, #B0F98B 50% );
+}
+.greenb {
+background-image: linear-gradient(-45deg, #B0F98B 30%, #8AE1F7 50% );
+}
+.blueb {
+	background-image: linear-gradient(-135deg, #8AE1F7 30%, #9A8AF7 50% );
+}
+.purpleb {
+	background-image: linear-gradient(135deg, #9A8AF7 30%, #F49FEA 50% );
+}
+.pinkb {
+	background-image: linear-gradient(45deg, #F49FEA 30%, #F96868 50% );
+}
+.redc {
+	background-image: linear-gradient(-45deg, #F96868 30%, #EDB784 50%);
+}
+
+.start{
+	width: 100%;
+	height: 1000%;
+}
+.row {
+	height: 50%;
+	width: 100%;
+	display: flex;
+}
+
+.col {
+	display: block;
+	height: 100%;
+	width: 50%;
+}
