@@ -119,6 +119,7 @@ background-image: linear-gradient(135deg, #F9F28B 30%, #B0F98B 50% );
 
 .header{
 	display: flex;
+	justify-content: space-between;
 	position: fixed;
 	background: white;
 	margin-left: 25%;
