@@ -119,9 +119,23 @@ background-image: linear-gradient(135deg, #F9F28B 30%, #B0F98B 50% );
 
 .header{
 	display: flex;
+	align-items: center;
 	justify-content: space-between;
 	position: fixed;
 	background: white;
+	margin-left: 25%;
+	width: 50%;
+	text-align: center;
+	font-family: flexed;
+	font-size: 20px;
+}
+.footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	background: white;
+	margin-top: 43%;
 	margin-left: 25%;
 	width: 50%;
 	text-align: center;
